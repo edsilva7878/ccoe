@@ -1,0 +1,51 @@
+.card{
+    background-color: white;
+    color: navy;
+    width: 20vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-left: solid 0.2vw transparent;
+    border-right: solid 0.2vw transparent;
+    border-radius: 50%;
+
+  }
+   .card:hover{
+    border-radius: 10%;
+    border-left: solid 0.2vw navy;
+    border-right: solid 0.2vw navy;
+    transition: all 0.5s;
+
+   }
+ 
+  
+  .icon{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vw;
+  }
+  
+  .legend{
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3vw;
+    text-align: justify;
+  }
+  
+  .description{
+    width: 15vw;
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2vw;
+    text-align: center;
+  }

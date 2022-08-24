@@ -1,0 +1,83 @@
+.ccoe{
+  width: 100vw;
+  height: 100vh;
+  background-color: navy;
+  color: white;
+  font-family: 'Poiret One';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  font-size: 2.5vw;
+}
+
+.bodyCCOE{
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poiret One';
+  gap: 5vw;
+}
+
+.imageCCOE{
+  background-image: url('../../images/time.jpg');
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0.1vw 0.1vw 0.2vw 0.1vw black;
+}
+
+.textCCOE{
+  width: 40vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3vw;
+  text-align: justify;
+  color: white;
+}
+
+.footer{
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrowLeftWhite{
+  width: 5vw;
+  color: white;
+  font-size: 3vw;
+  transition: all 0.3s;
+}
+
+.arrowLeftWhite:hover{
+  color: white;
+  font-size: 3.5vw;
+  transition: all 0.3s;
+}
+
+.arrowRightWhite{
+  width: 5vw;
+  color: white;
+  font-size: 3vw;
+  transition: all 0.3s;
+}
+
+.arrowRightWhite:hover{
+  width: 5vw;
+  color: white;
+  font-size: 3.5vw;
+  transition: all 0.3s;
+}
