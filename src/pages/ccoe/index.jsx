@@ -22,7 +22,7 @@ export default function CCOE(){
                             Testes e revisões de todo o plano de transição.<br/><br/>
                             <li>ESTRATÉGIA</li>
                             Definir motivações e resultados de negócios.<br/><br/>
-                            <li>GOVERNAÇA</li>
+                            <li>GOVERNANÇA</li>
                             Gerenciar todos os processos envolvidos.<br/><br/>
                             <li>AUTOMOÇÃO</li>
                             Eficiência operacional e aumento da produtividade.<br/><br/>

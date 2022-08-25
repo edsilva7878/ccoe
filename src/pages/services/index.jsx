@@ -46,9 +46,9 @@ export default function Services(){
 
             <div className='bodyServices'>
                 <Card
-                    legend='AGILIADADE'
+                    legend='AGILIDADE'
                     icon={<DiScrum/>}
-                    description='Gerenciamento diâmico dos projetos'>
+                    description='Gerenciamento dinâmico dos projetos'>
                 </Card>
 
                 <Card
