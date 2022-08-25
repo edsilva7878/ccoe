@@ -29,12 +29,14 @@
 }
 
 .imageCCOE{
-  background-image: url('../../images/time.jpg');
+  background-image: url('../../images/time.png');
+  background-size: cover;
+  width: 40vw;
   height: 60vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0.1vw 0.1vw 0.2vw 0.1vw black;
+  box-shadow: 0.1vw 0.1vw 1vw 0.1vw black;
 }
 
 .textCCOE{

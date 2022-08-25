@@ -17,7 +17,7 @@ export default function Info() {
         <a className='fonts' target="_blank" href="https://cloud.google.com">cloud.google.com</a>
         <a className='fonts' target="_blank" href="https://www.embratel.com.br/cloud/servicos-em-nuvem">embratel.com.br/cloud</a>
         <a className='fonts' target="_blank" href="https://github.com/edsilva7878">github.com/edsilva7878</a>
-        <a className='fonts' target="_blank" href="https://www.ccoe.netlify.app">ccoe.netlify.app</a>
+        <a className='fonts' target="_blank" href="https://ccoe.netlify.app/">ccoe.netlify.app</a>
         </div>
           <div className='footer'>
               <Link to='/services'><IoIosArrowBack className='arrowLeftWhite'/></Link>
