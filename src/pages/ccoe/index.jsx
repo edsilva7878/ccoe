@@ -19,13 +19,13 @@ export default function CCOE(){
                         Principais funções:<br/><br/>
                         <ul>
                             <li>ADOÇÃO</li>
-                            Testes e revisões de todo o plano de transição.<br/><br/>
+                            Realização de testes e revisões do plano de transição.<br/><br/>
                             <li>ESTRATÉGIA</li>
-                            Definir motivações e resultados de negócios.<br/><br/>
+                            Definições, motivações e resultados de negócios.<br/><br/>
                             <li>GOVERNANÇA</li>
-                            Gerenciar todos os processos envolvidos.<br/><br/>
+                            Gerenciamento de práticas e processos no ambiente cloud.<br/><br/>
                             <li>AUTOMOÇÃO</li>
-                            Eficiência operacional e aumento da produtividade.<br/><br/>
+                            Permitir eficiência operacional e aumento da produtividade.<br/><br/>
                         </ul>
                     </h4>
                 </div>
